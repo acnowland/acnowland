@@ -12,12 +12,6 @@ coding problem in the same manner I analyzed complex medical conditions.
  - [Email](mailto:acnowland@gmail.com)
 
 
-#
-<!-- [![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=acnowland)](https://github.com/acnowland/github-readme-stats) -->
-![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=acnowland&show_icons=true&theme=radical)
-#
-
-
 
 <!--
 **acnowland/acnowland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
